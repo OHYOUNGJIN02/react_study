@@ -1,7 +1,8 @@
 import './App.css'
-import Hook01 from './ReactStudy/Hook01';
-import Hook03 from './ReactStudy/Hook03';
-import CountState from './ReactStudy/ReactHook02/CountState';
+import Hook04 from './ReactStudy/Hook04'
+import Hook05 from './ReactStudy/Hook05'
+import Hook06 from './ReactStudy/Hook06'
+
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
   //     자식요소
   //   </h1>
   //   </React04>);
-  <Hook03/>
+  //<Hook04 />
+  <Hook06 />
 )}
 export default App
