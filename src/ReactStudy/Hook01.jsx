@@ -5,6 +5,7 @@ import React, {useState} from 'react'
      * state를 이용해서 컴포넌트가 렌더링 될때 데이터를 보유하고
      * 이 데이터를 업데이트 해서 화면을 다시 렌더링 할 수 있다.
      * npm i = node modules 폴더 설치
+     * npm run dev = 서버 실행
      */
 
 
