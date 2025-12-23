@@ -2,7 +2,9 @@ import './App.css'
 
 import Hook09 from './ReactStudy/Hook09'
 import TodoEmotion from './TodoList/123123/TodoEmotion'
-import Layout from './TodoList/Components/Layout/Layout'
+import Layout from './TodoList/components/Layout/Layout'
+import Index from './TodoList/Pages/Index'
+
 
 
 
@@ -17,6 +19,7 @@ function App() {
   //<Hook04 />
   // <FruitsFilter/
   // <Hook08/>
-  <Layout/>
+  // <Layout/>
+  <Index />
 )}
 export default App
